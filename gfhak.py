@@ -45,7 +45,3 @@ if iccha=="1" or iccha=="02":
   """)
   time.sleep(1)
   print(vaggo)
-
-#tor make cudi khankir pola
-#ase geli script curi korte
-#coda dibo tor make🙂
